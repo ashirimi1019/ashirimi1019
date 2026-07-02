@@ -14,7 +14,7 @@ I build AI systems that run in production, on real business data, with humans in
 
 | Project | What it is | Proof |
 |---|---|---|
-| **Delta CORE** | Commercial-intelligence platform for a real ITAD business: 50K+ docs ingested, structured extraction, RAG pricing engine (75% sales lift) — **private production system** | Sanitized public skeleton: *opsgate — coming July 2026* |
+| **Delta CORE** | Commercial-intelligence platform for a real ITAD business: 50K+ docs ingested, structured extraction, RAG pricing engine (75% sales lift) — **private production system** | Sanitized public skeleton: [OpsGate](https://github.com/ashirimi1019/opsgate) |
 | [MarketReady](https://github.com/ashirimi1019/Marketreadyupdated2) | AI career-readiness platform scoring real GitHub signals + resume parsing | [Live demo](https://marketreadyupdated2.vercel.app) |
 | [GTM Signal Engine](https://github.com/ashirimi1019/Claude-GTM-Python_TS) | Signal-driven outbound automation (built on contract at CirrusLabs) — multi-agent research → buyer discovery → drafts, human review gate on every email; in production across 100+ campaigns | Repo |
 | [Cervico](https://github.com/ashirimi1019/Cervico) | Healthcare AI prototype — cervical-dilation tracking from ultrasound frames (Hacklytics 2025) | Repo |
